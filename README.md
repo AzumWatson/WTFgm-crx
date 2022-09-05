@@ -1,6 +1,6 @@
 # WTFgm-crx
 
-[WTF gm：Web3黑话汇总](https://github.com/AzumWatson/WTFgm-crx/releases) 的 浏览器插件
+[WTF gm：Web3黑话汇总](https://github.com/WTFAcademy/WTFgm) 的 浏览器插件
 
 # 使用方法
 
